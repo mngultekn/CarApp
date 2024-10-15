@@ -1,0 +1,14 @@
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\bin\Debug\net8.0\CarApp.exe
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\bin\Debug\net8.0\CarApp.deps.json
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\bin\Debug\net8.0\CarApp.runtimeconfig.json
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\bin\Debug\net8.0\CarApp.dll
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\bin\Debug\net8.0\CarApp.pdb
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.AssemblyInfoInputs.cache
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.AssemblyInfo.cs
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.dll
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\refint\CarApp.dll
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.pdb
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\CarApp.genruntimeconfig.cache
+C:\Users\mngul\Desktop\Arman hoca c#\CarApp\CarApp\obj\Debug\net8.0\ref\CarApp.dll
